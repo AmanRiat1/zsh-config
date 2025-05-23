@@ -1,0 +1,5 @@
+# Ignore secrets file containing sensitive information
+secrets.zsh
+
+# Ignore common macOS files
+.DS_Store
